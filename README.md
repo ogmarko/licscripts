@@ -1,5 +1,5 @@
-# licscripts
-License scripts
+# License scripts
+
 
 These are the scripts that run every 5 minutes on a license server and updates a database on a web server to give updates on:
 1) How many network licenses for a program are available?
