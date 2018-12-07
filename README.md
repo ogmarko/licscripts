@@ -12,3 +12,6 @@ you actually need.
 
 
 #Avid scripts only submit data for current usage to Grafana
+
+#Scripts with available are all pretty much the same.  Just replace the file location from the output of the usage script
+#and change the database syntax
