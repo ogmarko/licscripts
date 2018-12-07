@@ -9,3 +9,6 @@ The scripts also keep track of the daily high usage amount for each program by c
 from a text file on the machine.  At the end of a day a script takes all the day high text files and submits it to a Grafana
 database that charts the daily high.  This is very useful for end of year license renews as you can see how many of each license 
 you actually need.
+
+
+#Avid scripts only submit data for current usage to Grafana
